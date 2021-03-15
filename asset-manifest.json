@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/react_pixbay/static/css/main.4847c92d.chunk.css",
+    "main.js": "/react_pixbay/static/js/main.f4a58534.chunk.js",
+    "main.js.map": "/react_pixbay/static/js/main.f4a58534.chunk.js.map",
+    "runtime-main.js": "/react_pixbay/static/js/runtime-main.320618d6.js",
+    "runtime-main.js.map": "/react_pixbay/static/js/runtime-main.320618d6.js.map",
+    "static/js/2.47c1bb15.chunk.js": "/react_pixbay/static/js/2.47c1bb15.chunk.js",
+    "static/js/2.47c1bb15.chunk.js.map": "/react_pixbay/static/js/2.47c1bb15.chunk.js.map",
+    "index.html": "/react_pixbay/index.html",
+    "static/css/main.4847c92d.chunk.css.map": "/react_pixbay/static/css/main.4847c92d.chunk.css.map",
+    "static/js/2.47c1bb15.chunk.js.LICENSE.txt": "/react_pixbay/static/js/2.47c1bb15.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.320618d6.js",
+    "static/js/2.47c1bb15.chunk.js",
+    "static/css/main.4847c92d.chunk.css",
+    "static/js/main.f4a58534.chunk.js"
+  ]
+}
